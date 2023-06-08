@@ -2,14 +2,14 @@
 
 ![BlogPicture](weed.png)
 
-Hello There, Welcome to my Markdown Blog. In this blog i will showcase various elements and formatting techniques of Markdowns.
+Hello There, Welcome to my Profile!
 
 ## ***About Me***
 
 Here are few things about me:
 
 - **Name:** Hassan Shakil
-- **Occupation:** Student/Freenlancer
+- **Occupation:** Student/Freelancer
 - **Hobbies:**
     - Computer Geek
     - Programming
@@ -22,6 +22,7 @@ Here are few things about me:
 - **Past Experiences:**
   - Over 8+ years in *PAWN Language*
   - Worked with 100+ clients
+  - Languages: C , C++ , PAWN , Basic Java/Python , LUA.
   - Experience _Freelancer_ with 5 star rating and Level 2 seller on [Fiverr](fiverr.com)
 
 
